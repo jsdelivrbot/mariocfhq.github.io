@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2017 Mario Sinani
+Copyright (c) 2017 Mario Sinani <mariosinani@protonmail.ch> (https://mariocfhq.github.io)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

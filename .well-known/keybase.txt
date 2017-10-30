@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/mariosinani
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mariocfhq.github.io
+  * I am mariosinani (https://keybase.io/mariosinani) on keybase.
+  * I have a public key with fingerprint 148B AAF1 CEEF 8043 BAD2  251B 7DC9 7945 200D 290E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101ee18947aaba30e469d0d598adc10d22afd2ba6aaae0e848082e0619f83aad4e30a",
+      "fingerprint": "148baaf1ceef8043bad2251b7dc97945200d290e",
+      "host": "keybase.io",
+      "key_id": "7dc97945200d290e",
+      "kid": "0101ee18947aaba30e469d0d598adc10d22afd2ba6aaae0e848082e0619f83aad4e30a",
+      "uid": "87d3cfaa36e9dc7e8dc07037d4f86819",
+      "username": "mariosinani"
+    },
+    "service": {
+      "hostname": "mariocfhq.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1509391471,
+  "expire_in": 157680000,
+  "prev": "70e7b885c9771d91a16115180623bac7b09c51b8572cbae2965d2c8b5efff8f9",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMImAnicrVJfSBRBHL6r1DTEfAmVHmIpCjKZ2b+z14sJvRYVoUJyze7M3m3q7rm7
+dyaeSChFoKkUUWSU0oMRSBEkWHCpB0WaEGn00B8JSg+NoEJJyZq1gh56bF6Gmfm+
+b77f9/ul89cH8oKr59Od81PJeHB8pC8eqF5K2s2cZpMmLtTM1dK1jdYR6nrhWpNw
+IQ5AACmFSBUVjDUsACrKKgFEUhEmOgSE57FBeA3LGGMKKBIRQDwFMlQNJGBMRCoA
+zJVyhmlFqBNzTMtjslBEGsYG1Ck1EBAFDTMhCWoK0VVFFSUeMGUVUEaM2q7PYOY0
+7NIy02Z37BBes/cP/H/2HV+TQwoRdANjQaYq0RWKiA4UIChENJCMoOoDXepYuJ4y
+dD12TNs1LWyZXEspxx4Spk79bP1i/gbpRrShLGJ60bj2q7KYY3u2btcxQNTzYm7I
+F/CaYj6jkWrh31phzbQIS5QxEtRxTdviQpAhdc/0xaEEVEGFogJLOXoyZjo0bPoI
+SZERYMv/hyb8/ABVNIQklqICiQoxlCGUIAIyz3qiKxpQddYWJCm8rmHKq7JEeB1p
+EjUMAxl+3S5tsGwuJDCbOMIkXTNiYS/uUK5l9OGxDYFgXiA7a50/aYG83M1/5i97
+NWdV3JFKnquckBYH+iN8/Zaub4Wk6kUB3Ln35eD8cLJkluSGF77XZA43tRZui3dP
+DM6mlqMNlVnV8oOR0x969yUOBi+OFS+f7e24lD/1NOeRlshNTd8nfXmvf5RvmZNX
+lK/pzUXv57Yd7c1+djQ+P1149Xpve3vb6sfQ7qxM69CBa8HRnpJis6doomf52bsH
+jthzZfuTtsuvA6lTekH73aqrm2bVmv0rA3uuvMoYNxZ3QXRtLn3zTuXEzNvBvlc3
+644s3Yre/rx8tiJwqOv5WPrNhdDIZFNZ6suZxwvOxpLvM6Nnhm91D0xPFh/PdI6v
++3S4Y8fWZHn5kFtRdWLfvdrGlv6fkT1Txg==
+=Ss6t
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mariosinani
+
+==================================================================

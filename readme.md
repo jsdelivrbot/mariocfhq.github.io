@@ -4,7 +4,7 @@
 
 <div align="center">
       <a href="https://github.com/champloohq/tusk">
-        <img src="https://cdn.rawgit.com/mariocfhq/mariocfhq.github.io/29291a88/media/main.jpeg" alt="Personal website of Mario Sinani" width="100%">
+        <img src="https://cdn.jsdelivr.net/gh/mariocfhq/mariocfhq.github.io@29291a88/media/main.jpeg" alt="Personal website of Mario Sinani" width="100%">
       </a>
 </div>
 
